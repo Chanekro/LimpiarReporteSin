@@ -1,0 +1,6 @@
+pandas
+os
+pathlib
+openpyxl
+re
+numpy
