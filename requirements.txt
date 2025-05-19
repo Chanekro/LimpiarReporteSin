@@ -4,3 +4,4 @@ pathlib
 openpyxl
 re
 numpy
+streamlit
